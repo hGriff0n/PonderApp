@@ -15,7 +15,7 @@ namespace PonderApp
     // keyboard is shown (highly recommended for all GL apps)
     [Activity(Label = "PonderApp",
                     ConfigurationChanges = ConfigChanges.KeyboardHidden,
-                    ScreenOrientation = ScreenOrientation.SensorLandscape,
+                    //ScreenOrientation = ScreenOrientation.SensorLandscape,
                     MainLauncher = true,
                     Icon = "@mipmap/icon")]
     public class MainActivity : Activity

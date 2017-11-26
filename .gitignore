@@ -6,3 +6,5 @@ bin/Debug/
 *.stamp
 
 obj/Debug/
+
+obj/\.cache/
